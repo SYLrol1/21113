@@ -1,0 +1,7 @@
+<html>
+<head><title>프레임</title></head>
+<body>
+<a href=right1.html target=right>학과소개</a><p>
+<a href=right2.html target=right>직업소개</a>
+</body>
+</html>
